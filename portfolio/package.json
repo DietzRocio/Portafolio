@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DietzRocio.github.io/Portafolio",
+  "homepage": "https://DietzRocio.github.io/Portfolio",
   "dependencies": {
     "@fontsource/montserrat": "^5.0.18",
     "@testing-library/jest-dom": "^5.17.0",
