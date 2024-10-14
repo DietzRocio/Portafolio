@@ -1,0 +1,17 @@
+.experience-card {
+  min-width: 350px;
+  max-width: 800px;
+  width: auto;
+  margin-bottom: 14px;
+
+  .title {
+    display: flex;
+    align-items: center;
+    /* margin-bottom: 10px; */
+  }
+
+  .icon {
+    height: 40px;
+    margin-left: 3px;
+  }
+}
